@@ -13,7 +13,11 @@ Measures of Central Tendency
 Measures of Dispersion
 
 Covariance
+
 Correlation
+
 Probability Distributions
+
 Normal Distribution
+
 Log-Normal Distribution
